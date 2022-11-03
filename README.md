@@ -12,3 +12,4 @@
     - Email: 21a36.pratham@sjec.ac.in 
     
 [![@prathamvbhat05's Holopin board](https://holopin.me/prathamvbhat05)](https://holopin.io/@prathamvbhat05)
+[![Pratham V Bhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamvbhat)](https://github.com/prathamvbhat/github-readme-stats)
