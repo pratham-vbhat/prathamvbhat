@@ -1,6 +1,6 @@
 [![@prathamvbhat05's Holopin board](https://holopin.me/prathamvbhat05)](https://holopin.io/@prathamvbhat05) Visitor Counter ![](https://komarev.com/ghpvc/?username=prathamvbhat&color=green)
 
-[**About me**](docs/README.md)<hr />
+[**About me**](https://github.com/prathamvbhat/prathamvbhat/blob/main/README.md)<hr />
 I’m Pratham V Bhat, I'm currently pursuinng my Engineering Degree under Computer Science field from St Joseph Engineering College.
 
 **Things I'm Passionate about**<hr/> 
