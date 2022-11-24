@@ -3,8 +3,10 @@
 **About me**
 
 ***
-I’m Pratham V Bhat from India 🇮🇳.
-I'm currently pursuinng my Engineering Degree under Computer Science field from St Joseph Engineering College.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=4000&lines=Hello%F0%9F%91%8B%2C+I+am+Pratham+V+Bhat+;I+am+a+Computer+Science+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
+
+<!-- I’m Pratham V Bhat from India.
+I'm currently pursuinng my Engineering Degree under Computer Science field from St Joseph Engineering College. -->
 
 **Things I'm Passionate about**
 
