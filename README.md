@@ -18,12 +18,11 @@ I'm currently pursuinng my Engineering Degree under Computer Science field from 
 
 **Things I'm Passionate about**
 
-***
-   - Ethical Hacking. 
-   - CyberSecurity.
+*** 
+   - CyberSecurity & Ethical Hacking.
    - cryptocurrency.
    - web development.
-   - kali Linux.
+   - kali Linux & other Linux.
 
 **Get in touch**<hr />
     * Email: 21a36.pratham@sjec.ac.in  
