@@ -24,7 +24,7 @@
 <h2 align="center"> Stats and Achivements</h2>
 
 <p align="center">
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamvbhat&theme=radical&layout=compact" />
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamvbhat&layout=compact" />
 </p>
 
 <p align="center">
