@@ -10,7 +10,9 @@
 - 🌱 I’m currently learning **Python and Web**
 
 - 🤝 I’m looking for help with **Machine Learning and its project**
-
+  
+- 🏢 I am currently interning at EG India PVT. LTD. as a DevOps intern
+  
 - 📫 How to reach me **21a36.pratham@sjec.ac.in**
 
 <h2 align="center">Connect with me</h2>
