@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning and its project**
   
-- 🏢 I am currently interning at **EG India PVT. LTD.** as a **DevOps Intern**
+- 🏢 I was interning at **EG India PVT. LTD.** as a **Machine Learning Intern**
   
 - 📫 How to reach me **21a36.pratham@sjec.ac.in**
 
