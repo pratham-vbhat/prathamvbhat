@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently working on **100 days of python bootcamp**
 
-- 🌱 I’m currently learning **Python and Web**
+- 🌱 I’m currently learning **Python and Web Development**
 
 - 🤝 I’m looking for help with **Machine Learning and its project**
   
 - 🏢 I was interning at **EG India PVT. LTD.** as a **Machine Learning Intern**
+
+- 🏢 I was interning at **Toyota Kirloskar Motor Private Limited** as a **SDE Intern**
   
-- 📫 How to reach me **21a36.pratham@sjec.ac.in**
+- 📫 How to reach me **prathamvbhat.sjec@gmail.com**
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
