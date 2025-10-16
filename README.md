@@ -1,12 +1,12 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/sections/profile_section_light.svg" alt="About Me heading">
-        <img src="./assets/sections/profile_section_dark.svg" alt="Pratham V Bhat's Github Header">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/sections/profile_section_dark.svg" alt="About Me heading">
+        <img src="./assets/sections/profile_section_light.svg" alt="Pratham V Bhat's Github Header">
     </picture>
    <center>
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/about_me_section_light.svg" alt="About Me heading">
-         <img src="./assets/headers/about_me_section_dark.svg" alt="About Me heading">
+         <source media="(prefers-color-scheme: dark)" srcset="./assets/headers/about_me_section_dark.svg" alt="About Me heading">
+         <img src="./assets/headers/about_me_section_light.svg" alt="About Me heading">
       </picture>
    </center>
    <p>Hello World!!!. It's Pratham here.</p>
